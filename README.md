@@ -28,6 +28,6 @@ This project generates random 8-character codes using a predefined set of charac
 ## Code Explanation
 The project contains a single class with the following methods:
 
-1.Main(): Starts the code generation process by calling the GenerateCodes() method.
-2.GenerateCodes(): Generates 1000 random 8-character codes and prints them to the console along with their validation results.
-3.CheckCode(string code): Checks if the given code is valid by ensuring it is of the correct length and contains only allowed characters.
+1. Main(): Starts the code generation process by calling the GenerateCodes() method.
+2. GenerateCodes(): Generates 1000 random 8-character codes and prints them to the console along with their validation results.
+3. CheckCode(string code): Checks if the given code is valid by ensuring it is of the correct length and contains only allowed characters.
